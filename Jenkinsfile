@@ -1,4 +1,11 @@
 node('maven-label'){
-stage("1"){
+stage("Preparation"){
+sh "echo hello world"}
+}
+stage("Preparation"){
+sh "echo hello world"}
+}
+stage("Preparation"){
+sh "echo hello world"}
 }
 }
